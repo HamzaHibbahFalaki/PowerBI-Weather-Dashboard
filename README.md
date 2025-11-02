@@ -1,4 +1,4 @@
-![Banner](banner.png.png)
+![Banner](banner.png)
 
 # 🌦️ Weather Forecast Dashboard
 
