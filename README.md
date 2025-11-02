@@ -92,8 +92,8 @@ PowerBI-Weather-Dashboard/
 │
 ├── README.md                    
 ├── Weather_Dashboard.pbix       
-├──dashboard_overview_1.png
-├──dashboard_overview_2.png
+├── dashboard_overview_1.png
+├── dashboard_overview_2.png
 └── banner.png
 ```
 
