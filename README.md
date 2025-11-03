@@ -21,7 +21,7 @@ An interactive Power BI dashboard that provides real-time weather insights and f
 
 ## Key Features
 
-### 🌡️ Temperature Insights
+### Temperature Insights
 - Current temperature with weather conditions
 - 7-day temperature trend visualization
 - Daily high and low forecasts
