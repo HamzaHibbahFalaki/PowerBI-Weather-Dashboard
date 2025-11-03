@@ -1,6 +1,6 @@
 ![Banner](banner.png)
 
-# 🌦️ Weather Forecast Dashboard
+# Weather Forecast Dashboard
 
 
 An interactive Power BI dashboard that provides real-time weather insights and forecasts for six major capital cities across Europe and North Africa.
@@ -8,7 +8,7 @@ An interactive Power BI dashboard that provides real-time weather insights and f
 ![Dashboard Preview](dashboard_overview_2.png)
 
 
-## 🌍 Featured Cities
+## Featured Cities
 
 | City | Country |
 |------|---------|
@@ -19,7 +19,7 @@ An interactive Power BI dashboard that provides real-time weather insights and f
 | **Rome** | Italy |
 | **Rabat** | Morocco |
 
-## ✨ Key Features
+## Key Features
 
 ### 🌡️ Temperature Insights
 - Current temperature with weather conditions
@@ -27,17 +27,17 @@ An interactive Power BI dashboard that provides real-time weather insights and f
 - Daily high and low forecasts
 - Hourly breakdown with line charts
 
-### 🌧️ Precipitation Analysis
+### Precipitation Analysis
 - Probability of rain vs. no-rain by day
 - Visual percentage breakdown
 - Week-at-a-glance rain forecast
 
-### 🌅 Astronomical Data
+### Astronomical Data
 - Precise sunrise times
 - Sunset times by location
 - Daily variation tracking
 
-### 🌬️ Atmospheric Conditions
+### Atmospheric Conditions
 Complete weather metrics dashboard including:
 - **Humidity** 
 - **Wind Speed**
@@ -46,13 +46,13 @@ Complete weather metrics dashboard including:
 - **UV Index** 
 - **Precipitation** 
 
-### 🗺️ Interactive Elements
+### Interactive Elements
 - City selector with navigation buttons
 - Dynamic map view showing selected location
 - Quick-switch between capitals
 - Responsive visual updates
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
@@ -62,10 +62,10 @@ Complete weather metrics dashboard including:
 | **WeatherAPI** | Real-time weather data source |
 | **M Language** | ETL processes and data shaping |
 
-### 📡 Data Source
+### Data Source
 Weather data powered by [WeatherAPI.com](https://www.weatherapi.com/api-explorer.aspx#forecast)
 
-## 📊 Visual Components
+## Visual Components
 
 | Visual Type | Description |
 |-------------|-------------|
@@ -76,17 +76,17 @@ Weather data powered by [WeatherAPI.com](https://www.weatherapi.com/api-explorer
 | **Icon Sets** | Weather condition indicators |
 | **Slicers** | City navigation and filtering |
 
-## 🎯 Dashboard Objectives
+## Dashboard Objectives
 
 This dashboard was designed to provide actionable weather intelligence for:
 
-✅ **Travel Planning** - Make informed decisions about upcoming trips  
-✅ **Event Management** - Schedule outdoor activities confidently  
-✅ **Daily Routine** - Plan your day based on weather conditions  
-✅ **Business Operations** - Weather-dependent business planning  
-✅ **Comparative Analysis** - Compare conditions across multiple cities
+ **Travel Planning** - Make informed decisions about upcoming trips  
+ **Event Management** - Schedule outdoor activities confidently  
+ **Daily Routine** - Plan your day based on weather conditions  
+ **Business Operations** - Weather-dependent business planning  
+ **Comparative Analysis** - Compare conditions across multiple cities
 
-## 📂 Repository Structure
+## Repository Structure
 ```
 PowerBI-Weather-Dashboard/
 │
@@ -97,7 +97,7 @@ PowerBI-Weather-Dashboard/
 └── banner.png
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - **Power BI Desktop** (latest version)
@@ -117,21 +117,21 @@ PowerBI-Weather-Dashboard/
    - Update API credentials in Power Query
    - Refresh data
 
-## 🔄 Data Refresh
+## Data Refresh
 
 The dashboard can be configured to:
 - Refresh manually on-demand
 - Schedule automatic refreshes (with Power BI Service)
 - Update data via API calls in real-time
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 ### Main View - Berlin
 ![Berlin Weather](dashboard_overview_1.png)
 
 *Features: Current conditions, 7-day forecast, rain probability, sunrise/sunset times, and comprehensive atmospheric data*
 
-## 🎨 Design Principles
+## Design Principles
 
 - **Modern UI/UX** - Clean, intuitive interface with smooth navigation
 - **Data-First** - Focus on actionable insights over decoration
@@ -140,11 +140,11 @@ The dashboard can be configured to:
 - **Accessibility** - High contrast and readable typography
 
 
-## 📝 License
+## License
 
 This project is open source and available under the MIT License.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Weather data provided by **WeatherAPI.com**
 - Icons and visual elements created using Power BI native features
